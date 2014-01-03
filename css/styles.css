@@ -333,8 +333,9 @@ footer .copy{
    border-bottom:0px;
 }
 
-.sidebar .nav li.open > a{
+.sidebar .nav li.open > a {
    background:#fff;
+   color: #555;
    border-bottom:1px dashed #eee;
 }
 
