@@ -1,6 +1,8 @@
 Bootstrap Admin Theme 3
 =====================
 
+<a href='https://github.com/VinceG/Bootstrap-Admin-Theme' target="_blank">Admin Theme for Bootstrap 2.x</a>
+
 A generic admin theme built with Bootstrap 3 free for both personal and commercial use. 
 
 This is still a work in progress.
